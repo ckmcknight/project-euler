@@ -1,3 +1,7 @@
+/*
+ * Find sum of all multiples of 3 and 5 under 1000
+ */
+
 public class P1 {
 
     public static void main(String[] args) {
