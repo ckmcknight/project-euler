@@ -9,3 +9,8 @@ The way I approached these problems were:
     3. Some I tried a more creative approach even if it
        was not the most efficient.
 
+Comments:
+    1. Some code is copied and pasted between problems
+       because I wanted all answers to be stand alone
+    2. Some methods that should be private are not because
+       I like to live on the edge
